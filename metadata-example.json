@@ -1,7 +1,7 @@
 {
-   "name":"The name of your NFT",
-   "description":"The description of your NFT",
-   "image":"ipfs://QmXa7itoeFWYsSGxJuZg2FhnUGTsnhc5YemSdzMEbBGW4F",
+   "name":"Crypto Girls",
+   "description":"Crypto Girls from across the Metaverse.",
+   "image":"Qmcjzjrs6Q8hA9mzZmS6dQxdJQKP8daY79foMhbq9medYi",
    "attributes":[
       {
          "trait_type":"Type",
